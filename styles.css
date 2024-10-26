@@ -1,0 +1,42 @@
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+h1 {
+    font: Ubuntu;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.two {
+    list-style: none;
+
+    width: 150px;
+    border: 7px solid rgb(0, 0, 0);
+    padding-left: 10px;
+    border-left: 50px solid rgb(253, 253, 253);
+    border-right: 50px solid rgb(255, 255, 255);
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#room {
+    border: 1px solid blacks;
+}
+
+body {
+    background-color: rgb(255, 253, 120);
+}
+
+a:hover {
+    background-color: rgba(247, 188, 185, 0.863);
+    ;
+    border-radius: 5px;
+    font-size: 20px;
+    font: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
