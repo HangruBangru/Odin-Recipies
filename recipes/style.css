@@ -1,5 +1,5 @@
 body{
-font-family: Ubuntu;
+font-family: Ubuntu,sans-serif;
 font-size: 20px;
 background-color: rgba(247, 188, 185, 0.863);
 
@@ -36,7 +36,6 @@ a{
 }
 a:hover {
     background-color: rgba(0, 0, 0, 0.863);
-    ;
     border-radius: 5px;
     font-size: 20px;
     font: bolder;
